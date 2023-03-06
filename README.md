@@ -1,2 +1,2 @@
-# Facial_Detector-life_with_Louie
- Project for Coputer Vision course
+<img src="assets/doc1.jpg">
+<img src="assets/doc2.jpg">
